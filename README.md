@@ -11,6 +11,9 @@ It features a clean navigation bar, dual content boxes, styled welcome text, and
 - Fixed circular image on the side
 - Simple footer section
 
+## 🔗 Live Preview
+[Click to view](https://himanshumoral.github.io/Flex-Layout-UI/) <!-- Replace with your actual link -->
+
 ## 📂 Files
 
 - `index.html` – Main HTML structure
