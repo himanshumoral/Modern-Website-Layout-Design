@@ -12,7 +12,7 @@ It features a clean navigation bar, dual content boxes, styled welcome text, and
 - Simple footer section
 
 ## 🔗 Live Preview
-[Click to view](https://himanshumoral.github.io/Flex-Layout-UI/) <!-- Replace with your actual link -->
+[Click to view](https://himanshumoral.github.io/Modern-Website-Layout-Design/) <!-- Replace with your actual link -->
 
 ## 📂 Files
 
@@ -26,7 +26,7 @@ It features a clean navigation bar, dual content boxes, styled welcome text, and
 
 ## ✨ Preview
 
-![Preview Screenshot](screenshot-link-here)
+![Preview Screenshot](https://1drv.ms/i/c/0def053c85805dea/EVtZClbt9ftPoUbSRCoobdYBXNVpIPw0yluUUMlcRSX8cw?e=Y5D2mw)
 
 
 ## 💡 Learnings
